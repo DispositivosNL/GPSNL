@@ -1,1 +1,1 @@
-{"actualizado":"2026-10-12 06:24","equipo_ok":true,"error":"","hora_equipo":"2026-10-12 06:24","caudal_lpm":37.0,"litros_pulsos":207468.0,"litros_hoy":34188}
+{"actualizado":"2026-10-12 06:26","equipo_ok":false,"error":"sin conexión con el Waveshare: timed out","hora_equipo":"","caudal_lpm":null,"litros_pulsos":null,"litros_hoy":34188}
