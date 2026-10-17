@@ -1,1 +1,1 @@
-{"actualizado":"2026-10-17 12:46","equipo_ok":false,"error":"sin conexión con el Waveshare: [Errno 54] Connection reset by peer","hora_equipo":"","caudal_lpm":null,"litros_pulsos":null,"litros_hoy":0}
+{"actualizado":"2026-10-17 12:47","equipo_ok":true,"error":"","hora_equipo":"2026-10-17 12:47","caudal_lpm":0.0,"litros_pulsos":442608.0,"litros_hoy":0}
